@@ -13,6 +13,8 @@
 <img width="331" height="269" alt="image" src="https://github.com/user-attachments/assets/da53d7f8-e31e-4ece-afb4-f71f08342606" />  
 
 Demo:  
+<img width="846" height="480" alt="羽球偵測圖片" src="https://github.com/user-attachments/assets/16fa9c05-7b57-4f12-9916-a067b39602dc" />  
+
 https://github.com/user-attachments/assets/e0a021f6-d06c-43a3-a949-ebf764685671
 
 
